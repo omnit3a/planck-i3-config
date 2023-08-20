@@ -1,0 +1,4 @@
+DEFERRED_EXEC_ENABLE = yes
+AUDIO_ENABLE = yes
+AUDIO_DRIVER = dac_basic
+
